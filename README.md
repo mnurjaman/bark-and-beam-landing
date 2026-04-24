@@ -4,7 +4,7 @@ A modern landing page website for **Bark and Beam Coffee (BnB)**, built to eleva
 This project focuses on delivering a premium UI/UX, smooth animations, and SEO optimization to maximize reach and user engagement.
 
 ## 🚀 Features
-- ✨ Modern and aesthetic UI design
+- ✨ Modern UI design
 - ⚡ Fast and optimized performance
 - 📱 Fully responsive (mobile-first)
 - 🎬 Smooth animations and interactions
